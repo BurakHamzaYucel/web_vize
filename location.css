@@ -1,0 +1,78 @@
+body {
+    background-color: #151515;
+}
+.button {
+    font-family: 'Outfit', sans-serif;
+    text-decoration: none;
+    background-color: #151515;
+    position: relative;
+    bottom: 730px;
+    left: 200px;
+    color: white;
+      padding: 25px;
+      margin: 70px;
+      height: 70px;
+      width: 250px;
+    font-size: 20px;
+    z-index: 2;
+    align-items: center;
+    }
+.button:hover {
+      background-color: #D5966C;
+      border-color: #D5966C;
+    }
+    h1 {
+        color: white;
+        font-family: 'Big Shoulders Display', cursive;
+        font-size: 60px;
+        width: 150px;
+        position: relative;
+        left: 250px;
+    }
+    h2 {
+        color: #D5966C;
+        font-family: 'Big Shoulders Display', cursive;
+        font-size: 36px;
+    }
+    p {
+        font-family: 'Outfit', sans-serif;
+        color:  #151515;
+        width: 540px;
+        
+        font-size: 22px;
+    }
+    .address {
+        display: inline-flex;
+    }
+    .add {
+        color: white;
+        font-size: 22px;
+        font-family: 'Outfit', sans-serif;
+    }
+    .address_info {
+        position: relative;
+        left: 900px;
+    }
+
+    h3 {
+        width: 170px;
+        color:  #151515;
+        font-size: 36px;
+        font-family: 'Big Shoulders Display', cursive;
+    }
+    #info {
+        background-color: #D5966C;
+        margin: 0;
+        padding: 0;
+        display: inline-flex;
+        width: 1900px;
+        height:270px;
+        position: relative;
+        bottom: 0px;
+        justify-content: space-around;
+        align-items: center;
+    }
+    a:hover {
+        background-color: #151515;
+    }
+

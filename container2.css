@@ -1,0 +1,32 @@
+#container2 {
+    flex-wrap: wrap;
+    display: inline-flex;
+    position: relative;
+    top: 200px;
+}
+.header-2 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 70px;
+    width: 400px;
+    height: 120px;
+}
+.paragraph-2 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Outfit', sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: 25px;
+    margin: 28px;
+    width: 370px;
+    right: 20px;
+
+}
+.YDATG {
+    position: relative;
+    left: 250px;
+    top: 00px;
+}
+.photo1 {
+    position: relative;
+    left: 450px;
+}

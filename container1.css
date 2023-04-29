@@ -1,0 +1,58 @@
+
+#MAG {
+  padding: 0;
+  margin: 0;
+
+width: 1300px;
+height: 900px;
+
+background: url(./assets/desktop/image-hero@2x.jpg) no-repeat right ;
+background-size: contain;
+color: white;
+background-color: #151515;
+
+}
+#container1 {
+flex-wrap: wrap;
+  display: inline-flex;
+}
+.Header-1 {
+font-family: 'Big Shoulders Display', cursive;
+position: relative;
+top: 70px;
+left: 350px;
+font-size: 96px;
+
+width: 450px;
+margin: 88px;
+
+}
+p {
+
+font-family: 'Outfit', sans-serif;
+}
+.paragraph-1 {
+height: 500px;
+width: 300px;
+position: relative;
+font-size: 22px;
+top: 200px;
+right: 63px;
+z-index: 1;
+}
+.button {
+  background-color: #151515;
+  color: white;
+    padding: 30px;
+    position: relative;
+    top: 300px;
+    right: 370px;
+    z-index: 3;
+    text-decoration: none;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 25px;
+}
+.button:hover {
+  background-color: #D5966C;
+  border-color: #D5966C;
+}

@@ -1,0 +1,35 @@
+.header-4 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: white;
+    font-size: 36px;
+    width: 170px;
+}
+.baglantilar {
+    position: relative;
+    bottom: 10px;
+    justify-content: space-between;
+}
+a:hover {
+    background-color: #d5966c;
+}
+#container4 {
+    flex-wrap: wrap;
+    background-color: #151515;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    width: 1890px;
+    height:250px;
+    position: relative;
+    bottom: 0px;
+    justify-content: space-around;
+    align-items: center;
+}
+.address {
+    color: white;
+    width: 380px;
+}
+.mag {
+    width: 222px;
+    height: 80px;
+}
